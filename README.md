@@ -1,10 +1,10 @@
 [
   {
     "ads": "0",
-    "title": "",
-    "message": "",
-    "image": "",
-    "url": ""
+    "title": "سلام",
+    "message": "تست میکنم اه اه",
+    "image": "https://imgurl.ir/uploads/x21252_1723620215236.png",
+    "url": "https://piki-h.ir"
   },
   {
     "ads": "1",
